@@ -1,0 +1,121 @@
+QLabel#TitleLabel {
+    font: 60pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QLabel#SubtitleLabel {
+    font: 20pt;
+    qproperty-alignment: AlignCenter;
+}
+
+QLabel#SettingsTitleLabel {
+    font: 60pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QThemedImageButton#SettingsBackButton {
+    qproperty-flat: true;
+}
+
+QLabel#ServerConfigurationTitleLabel {
+    font: 30pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QLabel#SelectPhoneTypeTitleLabel {
+    font: 30pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QThemedImageButton#SelectPhoneTypeScreenAndroidButton {
+    qproperty-resizeImage: true;
+    qproperty-flat: true;
+    outline: 0;
+}
+
+QThemedImageButton#SelectPhoneTypeScreenIphoneButton {
+    qproperty-resizeImage: true;
+    qproperty-flat: true;
+    outline: 0;
+}
+
+QThemedImageButton#SelectConnectionTypeUsbButton {
+    qproperty-resizeImage: true;
+    qproperty-flat: true;
+    outline: 0;
+}
+
+QThemedImageButton#SelectConnectionTypeWifiButton {
+    qproperty-resizeImage: true;
+    qproperty-flat: true;
+    outline: 0;
+}
+
+QThemedImageButton#SelectConnectionTypeBackButton {
+    qproperty-flat: true;
+}
+
+QLabel#SelectConnectionTypeTitleLabel {
+    font: 30pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QThemedImageButton#SelectPhoneTypeScreenBackButton {
+    qproperty-flat: true;
+}
+
+QThemedImageButton#ServerConfigurationScreenBackButton {
+    qproperty-flat: true;
+}
+
+QLabel#AboutDialogTitleLabel {
+    font: 30pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QLabel#AboutDialogLogo {
+    qproperty-alignment: AlignCenter;
+}
+
+QLabel#AboutDialogDescriptionLabel {
+    qproperty-alignment: AlignCenter;
+    font: 14pt;
+}
+
+QLabel#AboutDialogCopyrightLabel {
+    qproperty-alignment: AlignCenter;
+    font: 11pt;
+}
+
+QLabel#AboutDialogWebsiteLinkLabel {
+    qproperty-alignment: AlignCenter;
+    font: 11pt;
+}
+
+QLabel#LicenseDialogTitleLabel {
+    font: 30pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}
+
+QLabel#LicenseDialogVersionLabel {
+    qproperty-alignment: AlignCenter;
+    font: 11pt;
+}
+
+QLabel#LicenseDialogLicenseLink {
+    qproperty-alignment: AlignCenter;
+    font: 11pt;
+}
+
+QLabel#CreditsDialogTitleLabel {
+    font: 30pt;
+    font-weight: bold;
+    qproperty-alignment: AlignCenter;
+}

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/default.css</file>
+        <file>resources/back.png</file>
+        <file>resources/android.png</file>
+        <file>resources/iphone.png</file>
+        <file>resources/androidusb.png</file>
+        <file>resources/androidwifi.png</file>
+        <file>resources/back_down.png</file>
+        <file>resources/icon.png</file>
+        <file>resources/about_icon.png</file>
+        <file>resources/license.txt</file>
+    </qresource>
+</RCC>
