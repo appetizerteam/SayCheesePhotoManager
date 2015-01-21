@@ -11,7 +11,7 @@
  - Windows
 
 ### Technologies Used
- - [QCustomPlot] - For plotting child's daily photo activity.
+ - [QCustomPlot] - For plotting daily photo activity.
  - Qt 5 - For creating cross-platform GUIs.
  - Custom Cross-Platform Automatic Device Pairing - No ZeroConf needed!
  - Custom Qt Widgets - Custom Colored Image Mask Button, Spinner and Screen Transition Manager.
