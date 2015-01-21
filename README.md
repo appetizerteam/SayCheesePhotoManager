@@ -26,9 +26,8 @@
 ```
 
 # Features
-#### Simple User Interface
- - Design by [Vonnie Wu]
-![alt text](https://github.com/jealas/AllProjectsMarkdownResources/blob/master/SayCheesePhotoManager/MainScreen.png "Main Screen")
+#### Simple User Interface - Design by [Vonnie Wu]
+ ![alt text](https://github.com/jealas/AllProjectsMarkdownResources/blob/master/SayCheesePhotoManager/MainScreen.png "Main Screen")
 
 #### User Settings
 ![alt text](https://github.com/jealas/AllProjectsMarkdownResources/blob/master/SayCheesePhotoManager/Settings.png "Settings")
