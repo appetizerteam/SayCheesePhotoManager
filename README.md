@@ -52,6 +52,7 @@
 
 ### Todo's
 
+ - Organize Project Structure: add 'src' and 'include' directories.
  - Write GTest tests
  - Add Doxygen documentation
  - Create program launcher and updater.
