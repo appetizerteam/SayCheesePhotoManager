@@ -27,6 +27,7 @@
 
 # Features
 #### Simple User Interface
+ - Design by [Vonnie Wu]
 ![alt text](https://github.com/jealas/AllProjectsMarkdownResources/blob/master/SayCheesePhotoManager/MainScreen.png "Main Screen")
 
 #### User Settings
@@ -64,3 +65,4 @@ License
 
 [QCustomPlot]:http://www.qcustomplot.com/
 [Apache 2.0]:http://www.apache.org/licenses/LICENSE-2.0
+[Vonnie Wu]:https://github.com/vonniewu
