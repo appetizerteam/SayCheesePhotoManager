@@ -17,7 +17,7 @@
  - Custom Qt Widgets - Custom Colored Image Mask Button, Spinner and Screen Transition Manager.
  - C++11 - Because Smart Pointers Rock.
 
-# Building Instructions
+# Build Instructions
 ```sh
  $ git clone https://github.com/appetizerteam/SayCheesePhotoManager.git
  $ cd SayCheesePhotoManager
